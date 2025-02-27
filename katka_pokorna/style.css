@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Karla:400,700&display=swap");
 
 :root {
-  --bgColor: #290000;
-  --bgColor2: #120000;
+  --bgColor: #b71c1c;
+  --bgColor2: #17202a;
   --accentColor: #ffffff;
   --font: "Karla", sans-serif;
   --delay: 0.3s;
@@ -16,7 +16,7 @@ body {
   background: radial-gradient(
     ellipse at bottom,
     var(--bgColor) 0%,
-    var(--bgColor2) 100%
+    var(--bgColor2) 80%
   );
   /* background-image: url('https://bit.ly/3nFVqJh'); */
   opacity: 0;
